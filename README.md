@@ -1,0 +1,2 @@
+# fileinput
+Custom fileinput generator.
